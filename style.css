@@ -1,5 +1,5 @@
 .border {
-  background-color: white;
+  background-color: whitesmoke;
   font-family: 'Trebuchet MS';
   box-shadow: 0px 0px 20px 8px black;
   padding: 20px;
@@ -44,6 +44,6 @@ h2 {
 }
 
 .BTN {
-  background-color: white;
-  border: white;
+  background-color: whitesmoke;
+  border: whitesmoke;
 }
