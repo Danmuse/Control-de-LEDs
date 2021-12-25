@@ -8,6 +8,7 @@ html {
 
 .border {
   background-color: whitesmoke;
+  text-align: center;
   box-shadow: 0px 0px 20px 8px black;
   padding: 20px;
   width: 300px;
@@ -23,7 +24,6 @@ body {
   background-attachment: fixed;
   display: grid;
   place-items: center;
-  margin: 0; /*Le da valor a todo el perímetro*/
   gap: 2rem;
   margin: 2rem 1rem; /*Son dos valores, el primer valor corresponde al vertical, y el segundo valor corresponde al horizontal*/
 }
