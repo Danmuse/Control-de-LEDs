@@ -17,7 +17,7 @@ html {
 
 body {
   font-family: 'Trebuchet MS';
-  background-image: url('http://drive.google.com/uc?export=view&id=1LUE3eWI1xRuBRNt-C632pZZt4rskRweo');
+  background-image: url('./assets/Background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
